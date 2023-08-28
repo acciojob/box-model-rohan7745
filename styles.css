@@ -1,1 +1,31 @@
 /*  your css code here. If applicable */
+  .container {
+    width: 400px;
+    height: 200px;
+    border: 1px solid #000;
+    display: flex;
+	  background-color:gray;
+	  border-radius:20px;
+  }
+
+  .block {
+    flex: 1;
+    height:50%;
+    margin: 10px;
+    box-sizing: border-box;
+	  margin-top:50px;
+	  border-radius:200px;
+  }
+
+  .block.block-1 {
+    background-color: green;
+  }
+
+  .block.block-2 {
+    background-color: yellow;
+  }
+
+  .block.block-3 {
+    background-color: red;
+
+  }
