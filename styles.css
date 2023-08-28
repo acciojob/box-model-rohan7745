@@ -19,17 +19,17 @@
   }
 
   .block.block-1 {
-    background-color: green;
+    background-color: red;
 	   width:10px;
   }
 
   .block.block-2 {
-    background-color: yellow;
+    background-color: green;
 	   width:10px;
   }
 
   .block.block-3 {
-    background-color: red;
+    background-color: yellow;
 	   width:10px;
 
   }
